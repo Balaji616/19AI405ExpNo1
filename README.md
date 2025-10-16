@@ -83,6 +83,7 @@ print(f"Final Performance Score: {performance_score}")
 print("Environment State:", environment)
 ```
 
-<h3>OUTPUT:</h3>
+<h3>OUTPUT: </h3>
+  <img width="479" height="394" alt="Screenshot 2025-10-09 at 11 08 20 AM" src="https://github.com/user-attachments/assets/c31af7db-25a0-41dd-883c-d383d6a0bb8d" />
 <h3>RESULT:</h3>
 <p>Thus the ai agent is devel
